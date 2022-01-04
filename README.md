@@ -19,7 +19,3 @@ Task 4. _Collaboration: be up to date_
 ***
 
 I'm brand new to coding, hope this works!
-
-# zero_day
-# zero_day
-# zero_day
